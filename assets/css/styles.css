@@ -1103,6 +1103,7 @@ h4 {
   }
   .body-container .body-content .middle-content .right-content .translate-bottom {
     width: 100%;
+    transform: translateY(-0.5rem);
   }
   .bottom-container {
     padding-top: 0;
